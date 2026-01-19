@@ -1,13 +1,13 @@
 ---
 layout: default
 title: A Closed-Form Hypergeometric Product Formula for General SU(2) 3nj Recoupling Coefficients
-author: Arcticoder
+author: Dawson Institute
 date: May 25, 2025
 ---
 
 # A Closed-Form Hypergeometric Product Formula for General SU(2) 3nj Recoupling Coefficients
 
-*Arcticoder*
+*Dawson Institute*
 
 *May 25, 2025*
 
@@ -61,8 +61,8 @@ This formula is the first truly closed-form, general expression for SU(2) 3nj re
 
 ## References
 
-<a id="uniform12j">[1]</a> Arcticoder, "Uniform Closed-Form Representation of SU(2) 12j Symbols," May 25, 2025. Available at: [https://arcticoder.github.io/su2-3nj-uniform-closed-form/](https://arcticoder.github.io/su2-3nj-uniform-closed-form/)
+<a id="uniform12j">[1]</a> DawsonInstitute, "Uniform Closed-Form Representation of SU(2) 12j Symbols," May 25, 2025. Available at: [https://dawsoninstitute.github.io/su2-3nj-uniform-closed-form/](https://dawsoninstitute.github.io/su2-3nj-uniform-closed-form/)
 
-<a id="universalGF">[2]</a> Arcticoder, "A Universal Generating Functional for SU(2) 3nj Symbols," May 24, 2025. Available at: [https://arcticoder.github.io/su2-3nj-generating-functional/](https://arcticoder.github.io/su2-3nj-generating-functional/)
+<a id="universalGF">[2]</a> Dawson Institute, "A Universal Generating Functional for SU(2) 3nj Symbols," May 24, 2025. Available at: [https://dawsoninstitute.github.io/su2-3nj-generating-functional/](https://dawsoninstitute.github.io/su2-3nj-generating-functional/)
 
-<a id="finiteRec">[3]</a> Arcticoder, "Closed-Form Finite Recurrences for SU(2) 3nj Symbols," May 25, 2025. Available at: [https://arcticoder.github.io/su2-3nj-recurrences/](https://arcticoder.github.io/su2-3nj-recurrences/)
+<a id="finiteRec">[3]</a> Dawson Institute, "Closed-Form Finite Recurrences for SU(2) 3nj Symbols," May 25, 2025. Available at: [https://dawsoninstitute.github.io/su2-3nj-recurrences/](https://dawsoninstitute.github.io/su2-3nj-recurrences/)

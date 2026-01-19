@@ -2,8 +2,8 @@ Metadata-Version: 2.4
 Name: su2_3nj_closedform
 Version: 0.1.0
 Summary: Closed-form hypergeometric product formula for SU(2) 3nj symbols
-Author: Arcticoder
-License: Unlicense
+Author: Dawson Institute
+License: MIT
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: mpmath>=1.2
@@ -18,7 +18,7 @@ Dynamic: license-file
 
 This repository hosts the LaTeX source, published PDF, and analysis scripts accompanying a research paper describing a closed-form hypergeometric product expression for SU(2) 3nj recoupling coefficients. The materials are intended for reproducibility and independent verification by researchers in mathematical physics.
 
-**Paper (rendered):** https://arcticoder.github.io/su2-3nj-closedform/
+**Paper (rendered):** https://dawsoninstitute.github.io/su2-3nj-closedform/
 
 ## Abstract (concise)
 

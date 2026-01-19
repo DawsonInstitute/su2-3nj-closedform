@@ -3,7 +3,7 @@
 
 This repository hosts the LaTeX source, published PDF, and analysis scripts accompanying a research paper describing a closed-form hypergeometric product expression for SU(2) 3nj recoupling coefficients. The materials are intended for reproducibility and independent verification by researchers in mathematical physics.
 
-**Paper (rendered):** https://arcticoder.github.io/su2-3nj-closedform/
+**Paper (rendered):** https://dawsoninstitute.github.io/su2-3nj-closedform/
 
 ## Abstract (concise)
 

@@ -13,7 +13,7 @@ plugins:
 # GitHub Pages settings
 github:
   is_project_page: true
-  repository_url: https://github.com/arcticoder/su2-3nj-closedform
+  repository_url: https://github.com/DawsonInstitute/su2-3nj-closedform
 
 # Other settings
 permalink: pretty
